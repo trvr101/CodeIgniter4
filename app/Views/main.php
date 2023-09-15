@@ -3,6 +3,7 @@
 <body>
 
     <a href="<?= base_url('add')?>">add</a>
+    <a href="<?= base_url('vhon')?>">vhon</a>
     <div class="container">
     </div>
     <table class="table table-striped">

@@ -17,6 +17,10 @@ class MainController extends BaseController
     {
         return view('add');
     }
+    public function vhon()
+    {
+        return view('vhon');
+    }
     public function save()
     {
         $data = [
